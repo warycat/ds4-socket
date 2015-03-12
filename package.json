@@ -1,0 +1,10 @@
+{
+  "name": "ds4-server",
+  "version": "0.0.1",
+  "description": "Sony DualShock 4 controller server",
+  "dependencies": {
+    "buffer-crc32": "^0.2.3",
+    "express": "^4.10.1",
+    "socket.io": "^1.2.0"
+  }
+}
